@@ -1,0 +1,14 @@
+/*
+ * Style
+ */
+
+
+ .btn-center {
+     display: table;
+     margin: auto;
+ }
+
+
+ .text-center {
+     text-align: center;
+ }
